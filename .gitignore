@@ -1,0 +1,17 @@
+*~
+build
+*.pyc
+*.pyo
+*.c
+*.so
+*.*~
+# Vim swap files
+*.s[a-w][a-z]
+*.un~
+.netrwhist
+
+# Ctags file
+tags
+# cscope output
+cscope.out
+
